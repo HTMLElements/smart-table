@@ -1,0 +1,27 @@
+{
+  "name": "smart-table",
+  "authors": [
+    "jQWidgets Ltd"
+  ],
+  "description": "Smart Table is a FREE Table Web Component with Styles and Functionality which extend the Tables.",
+  "license": "Apache-2.0",
+  "keywords": [
+     "table",
+     "bootstrap table",
+     "bootstrap tables",
+     "tables web component",
+     "table web component",
+     "web component"
+  ],
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "**/node_modules",
+    "**/bower_components",
+    "**/tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^1.0.0",
+    "smart-core": "HTMLElements/smart-core"
+  }
+}
