@@ -18,6 +18,7 @@
 
 [&lt;smart-table&gt;](https://htmlelements.com/demos/table/) is a Custom HTML Element providing an alternative of the standard Table, part of the [Smart HTML Elements](https://htmlelements.com/).
 
+
 <!--
 ```
 <custom-element-demo>
