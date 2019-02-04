@@ -2,7 +2,7 @@
 
 &nbsp;
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/HTMLElements/smart-table/blob/master/LICENSE)
-[![npm](https://img.shields.io/npm/v/froala-design-blocks.svg?colorB=brightgreen)](https://www.npmjs.com/package/@smarthtmlelements/smart-table)
+[![npm](https://img.shields.io/npm/v/@smarthtmlelements/smart-table.svg?style=flat)](https://www.npmjs.com/package/@smarthtmlelements/smart-table)
 [![GitHub package version](https://img.shields.io/github/package-json/v/HTMLElements/smart-table.svg)](https://github.com/HTMLElements/smart-table)
 [![License: APACHE](https://img.shields.io/badge/license-APACHE-blue.svg)](https://github.com/HTMLElements/smart-table/blob/master/LICENSE)
 [![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=www.htmlelements.com)](https://www.htmlelements.com)
