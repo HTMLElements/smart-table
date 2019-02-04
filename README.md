@@ -60,11 +60,15 @@
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/smart-table.png" alt="Screenshot of smart-table, using the Material theme">](https://htmlelements.com/demos/table)
 
+
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/smart-table-sort.png" alt="Screenshot of smart-table, using which is sortable">](https://htmlelements.com/demos/table)
+
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/tables.png" alt="Screenshot of smart-table, using the Responsive Tablet mode">](https://htmlelements.com/demos/table)
 
+
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/responsive-table.png" alt="Screenshot of smart-table, using the Responsive mode">](https://htmlelements.com/demos/table)
+
 
 ## Getting Started
 
