@@ -1,0 +1,39 @@
+{
+  "name": "@smarthtmlelements/smart-table",
+  "version": "2.2.0",
+  "description": "Table Web Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLElements/smart-table.git"
+  },
+  "author": "",
+  "license": "https://htmlelements.com/license/",
+  "bugs": {
+    "url": "https://github.com/HTMLElements/smart-table/issues"
+  },
+  "homepage": "https://github.com/HTMLElements/smart-table#readme",
+   "keywords": [
+	"table",
+	"element",
+	"bootstrap",
+	"tables",
+	"table",
+	"bootstrap table",
+	"table web component",
+	"datatable web component",
+	"table grid",
+	"datagrid bootstrap",
+	"bootstrap grid",
+	"table custom element",
+	"html carousel",
+	"material web components",
+	"table",
+	"material table",
+	"custom elements",
+	"tables"
+  ]
+}
