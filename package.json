@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-table",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Table Web Component",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,10 @@
   "license": "https://htmlelements.com/license/",
   "bugs": {
     "url": "https://github.com/HTMLElements/smart-table/issues"
+  },
+	  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^1.0.22",
+   	"@smarthtmlelements/smart-core": "^2.3.0"
   },
   "homepage": "https://github.com/HTMLElements/smart-table#readme",
    "keywords": [
