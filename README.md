@@ -43,9 +43,9 @@ Demos: https://www.htmlelements.com/demos/table/overview/
 |
 [Documentation ↗](https://www.htmlelements.com/docs/)
 |
-[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smarthtmlelements-core)
+[Installation ↗](https://www.npmjs.com/package/smart-webcomponents-community)
 
-[&lt;smart-table&gt;](https://htmlelements.com/demos/table/) is a Custom HTML Element providing an alternative of the standard Table, part of the [Smart HTML Elements](https://htmlelements.com/).
+[&lt;smart-table&gt;](https://htmlelements.com/demos/table/) is a Custom HTML Element providing an alternative of the standard Table, part of the [Smart UI Community Version](https://htmlelements.com/).
 
 
 <!--
