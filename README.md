@@ -88,35 +88,35 @@ Demos: https://www.htmlelements.com/demos/table/overview/
 </smart-table>
 ```
 
-##Tree Table
+## Tree Table
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/tree-table.png" alt="Table with Tree">](https://htmlelements.com/demos/table)
 
-##Table Grouping
+## Table Grouping
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-group.png" alt="Table with Grouping">](https://htmlelements.com/demos/table)
 
-##Table with Filter Row
+## Table with Filter Row
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-filter-row.png" alt="Table with Filter Row">](https://htmlelements.com/demos/table)
 
-##Table with Cell Edit
+## Table with Cell Edit
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-edit.png" alt="Table with Edit">](https://htmlelements.com/demos/table)
 
-##Basic table
+## Basic table
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/smart-table.png" alt="Screenshot of smart-table, using the Material theme">](https://htmlelements.com/demos/table)
 
-##Table with Bootstrap UI
+## Table with Bootstrap UI
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/bootstrap-table.png" alt="Table Bootstrap">](https://htmlelements.com/demos/table)
 
-##Table with Sort
+## Table with Sort
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/smart-table-sort.png" alt="Screenshot of smart-table, using which is sortable">](https://htmlelements.com/demos/table)
 
-##Table with Responsive CSS
+## Table with Responsive CSS
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/tables.png" alt="Screenshot of smart-table, using the Responsive Tablet mode">](https://htmlelements.com/demos/table)
 
