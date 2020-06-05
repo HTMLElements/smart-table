@@ -1,4 +1,8 @@
-# [Smart Table](https://www.htmlelements.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,table,developers,webcomponents,customelements,polymer,material)
+# [Smart.Table](https://www.htmlelements.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,table,developers,webcomponents,customelements,polymer,material)
+
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-filter.png" alt="Table with Fliter">](https://htmlelements.com/demos/table)
+
 
 Smart.Table supports the following features:
 
