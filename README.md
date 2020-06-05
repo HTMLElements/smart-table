@@ -1,4 +1,28 @@
-# [Smart Table Element](https://www.htmlelements.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,table,developers,webcomponents,customelements,polymer,material)
+# [Smart Table](https://www.htmlelements.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,table,developers,webcomponents,customelements,polymer,material)
+
+Smart.Table supports the following features:
+
+- Sorting by one and multiple columns
+- Paging
+- Filtering with Filter Row and Filtering Input
+- Grouping
+- Tree Table
+- Expandable Rows
+- Cell and Row Editing
+- Keyboard navigation
+- Selection
+- Cell Validation
+- Loading on Demand
+- Responsive columns
+- Multi Row Header and Footer
+- Sticky Columns
+- Sticky Header
+- Columns Reorder
+- Data Export to Excel, PDF, HTML, CSV, TSV, HTML
+
+Smart.Table is FREE for everyone.
+
+Demos: https://www.htmlelements.com/demos/table/overview/
 
 &nbsp;
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/HTMLElements/smart-table/blob/master/LICENSE)
