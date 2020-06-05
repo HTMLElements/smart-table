@@ -24,6 +24,8 @@ Smart.Table supports the following features:
 - Columns Reorder
 - Data Export to Excel, PDF, HTML, CSV, TSV, HTML
 
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-component.png" alt="Table Component">](https://htmlelements.com/demos/table)
+
 Smart.Table is FREE for everyone.
 
 Demos: https://www.htmlelements.com/demos/table/overview/
@@ -86,8 +88,18 @@ Demos: https://www.htmlelements.com/demos/table/overview/
 </smart-table>
 ```
 
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-tree.png" alt="Table with Tree">](https://htmlelements.com/demos/table)
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-group.png" alt="Table with Grouping">](https://htmlelements.com/demos/table)
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-filter-row.png" alt="Table with Filter Row">](https://htmlelements.com/demos/table)
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/table-edit.png" alt="Table with Edit">](https://htmlelements.com/demos/table)
+
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/smart-table.png" alt="Screenshot of smart-table, using the Material theme">](https://htmlelements.com/demos/table)
 
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/bootstrap-table.png" alt="Table Bootstrap">](https://htmlelements.com/demos/table)
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-table/master/smart-table-sort.png" alt="Screenshot of smart-table, using which is sortable">](https://htmlelements.com/demos/table)
 
