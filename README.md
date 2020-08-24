@@ -43,7 +43,15 @@ Demos: https://www.htmlelements.com/demos/table/overview/
 |
 [Documentation ↗](https://www.htmlelements.com/docs/)
 |
+[Documentation for Web Components↗](https://www.htmlelements.com/docs/table/)
+|
+[Documentation for Angular↗](https://www.htmlelements.com/docs/table/)
+|
+[Documentation for React↗](https://www.htmlelements.com/docs/table/)
+|
+
 [Installation ↗](https://www.npmjs.com/package/smart-webcomponents-community)
+
 
 [&lt;smart-table&gt;](https://htmlelements.com/demos/table/) is a Custom HTML Element providing an alternative of the standard Table, part of the [Smart UI Community Version](https://htmlelements.com/).
 
