@@ -16,7 +16,8 @@
     "url": "https://github.com/HTMLElements/smart-table/issues"
   },
 	  "dependencies": {
-   	"@smarthtmlelements/smart-core": "^2.3.0"
+   	"@smarthtmlelements/smart-core": "^2.3.0",
+		  "smart-webcomponents": "7.7.1"
   },
   "homepage": "https://github.com/HTMLElements/smart-table#readme",
    "keywords": [
