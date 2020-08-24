@@ -1,6 +1,6 @@
 {
-  "name": "@smarthtmlelements/smart-table",
-  "version": "2.3.1",
+  "name": "smart-table",
+  "version": "7.7.4",
   "description": "Table Web Component",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,6 @@
     "url": "https://github.com/HTMLElements/smart-table/issues"
   },
 	  "dependencies": {
-    "@webcomponents/webcomponentsjs": "^1.0.22",
    	"@smarthtmlelements/smart-core": "^2.3.0"
   },
   "homepage": "https://github.com/HTMLElements/smart-table#readme",
@@ -24,6 +23,10 @@
 	"table",
 	"element",
 	"bootstrap",
+	"angular table",
+	   "react table",
+	   "angular datatable",
+	   "react datatable",
 	"tables",
 	"table",
 	"bootstrap table",
